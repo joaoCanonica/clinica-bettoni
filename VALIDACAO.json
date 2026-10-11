@@ -1,8 +1,11 @@
 {
+  "data": "2026-10-11",
   "paginas": 8,
-  "links_whatsapp_verificados": 54,
-  "erros": [],
-  "javascript": "node --check aprovado",
-  "video": "H.264/AAC, 720x1280, 101,47 s, 15,9 MB",
-  "limites": "Sem navegador disponível: renderização nos quatro tamanhos, teclado real, reprodução e métricas de desempenho pendentes."
+  "verificacao": "node scripts/check-site.mjs aprovado (inclui contraste AA via Playwright)",
+  "lighthouse_mobile": {
+    "index_com_abertura": "Performance 95, Acessibilidade 100, Boas práticas 100, SEO 100, LCP 2,9 s, CLS 0,001",
+    "index_sem_abertura": "Performance 95, Acessibilidade 100, Boas práticas 100, SEO 100, LCP 2,9 s, CLS 0",
+    "saude_mental": "Performance 98, Acessibilidade 100, Boas práticas 100, SEO 100, LCP 2,4 s, CLS 0,001"
+  },
+  "video": "H.264/AAC, 720x1280, 101,47 s, 15,9 MB (reencode testado: só 16% menor, original mantido)"
 }

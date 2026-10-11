@@ -1,6 +1,6 @@
 # Curadoria e direção visual
 
-Verde profundo #103f32, verde da marca #176d46, branco quente #F6F5ED e acentos dourados discretos. Tipografia DM Sans e Georgia. Lótus como abertura visual; fotografias reais e caminhos próprios para cada serviço. O detalhe da viagem ao Egito veio da imagem 01-14-40.
+Verde profundo #103f32, verde da marca #176d46, branco quente #F6F5ED e acentos dourados discretos. Tipografia DM Sans (texto) e Spectral (títulos), hospedadas localmente em `assets/fonts`. Lótus como abertura visual; fotografias reais e caminhos próprios para cada serviço. O detalhe da viagem ao Egito veio da imagem 01-14-40.
 
 | Material enviado (09/10/2026) | Conteúdo | Qualidade | Uso / ajuste |
 |---|---|---|---|
@@ -21,7 +21,7 @@ Verde profundo #103f32, verde da marca #176d46, branco quente #F6F5ED e acentos 
 | 01-13-24 | Lótus e identidade | Média | Direção de marca |
 | 01-14-40 | História da lótus no Egito | Baixa para exibição | História transcrita na página da clínica |
 | 01-17-39 | Ruminação mental | Boa para apoio | Conteúdos, preservando arte completa |
-| logo.png | Marca original | Média | Rodapé e favicon; conversão WebP |
+| logo.png | Marca original | Média, 236×197 | Rodapé, recortado sem o fundo bege (`logo-recorte.webp`); favicon passou a ser a lótus vetorial |
 | falando-sobre-saude-mental.mp4 | Mensagem do médico | 720×1280, 101,47 s, H.264/AAC | Perfil; poster no segundo 2, controles, preload none |
 | Lótus gerada | Ilustração botânica original | Alta, 1536×1024 | Abertura e história da marca, WebP; não representa pessoa ou estrutura |
 
