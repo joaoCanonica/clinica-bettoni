@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://clinica-bettoni.vercel.app/sitemap.xml
